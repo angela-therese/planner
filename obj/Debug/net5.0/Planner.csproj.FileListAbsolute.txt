@@ -1,0 +1,16 @@
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.csprojAssemblyReference.cache
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.AssemblyInfoInputs.cache
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.AssemblyInfo.cs
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.csproj.CoreCompileInputs.cache
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.exe
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.deps.json
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.runtimeconfig.json
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.runtimeconfig.dev.json
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.dll
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\ref\Planner.dll
+C:\Users\User-42\workspace\csharp\exercises\planner\bin\Debug\net5.0\Planner.pdb
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.dll
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\ref\Planner.dll
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.pdb
+C:\Users\User-42\workspace\csharp\exercises\planner\obj\Debug\net5.0\Planner.genruntimeconfig.cache
